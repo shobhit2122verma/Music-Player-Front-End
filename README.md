@@ -10,4 +10,3 @@ Main Homepage of the website is index.html and styling for the this html is done
 ![snippet 2](https://user-images.githubusercontent.com/44787115/124975185-6107c400-e04b-11eb-9b6e-36aa4d682927.png)
 ![snippet 3](https://user-images.githubusercontent.com/44787115/124975186-6238f100-e04b-11eb-81d2-a4d77b639f01.png)
 
-
