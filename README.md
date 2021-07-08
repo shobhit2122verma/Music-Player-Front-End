@@ -3,3 +3,11 @@ In my B.tech third year I had this Coding Ninja Course for Web Tech. and In the 
 
 
 Main Homepage of the website is index.html and styling for the this html is done by external css called stylesheet.css and for the Playlist page html is Single Playlist Screen.html and styling css is Single Playlist Screen Style.css and there are two more css files those for to make the pages more responsive and I don't think that you need to touch those and all the media(images) required for these pages are in the "media.zip" you need to extract this file.
+
+# Overview of the project
+
+![snippet 1](https://user-images.githubusercontent.com/44787115/124975250-75e45780-e04b-11eb-8dcf-ef29da3adffc.png)
+![snippet 2](https://user-images.githubusercontent.com/44787115/124975185-6107c400-e04b-11eb-9b6e-36aa4d682927.png)
+![snippet 3](https://user-images.githubusercontent.com/44787115/124975186-6238f100-e04b-11eb-81d2-a4d77b639f01.png)
+
+
